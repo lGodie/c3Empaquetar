@@ -1,0 +1,5 @@
+testpackage (0.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Godie <godie@debian>  Mon, 26 Sep 2016 05:44:06 -0500
